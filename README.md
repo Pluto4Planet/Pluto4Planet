@@ -1,10 +1,12 @@
 ### Hello there 👋, I'm Michael
 
+<img align="right" width="150" height="150" src="https://solarsystem.nasa.gov/system/resources/detail_files/795_crop_p_color2_enhanced_release_detail.jpg" alt="NASA" title="NASA">
+
+
 - 👨🏽‍💻 I'm pursuing a Bachelor's degree in Computer Science
 - 📃 Currently learning Mobile Dev and UI/UX
 - Pluto, the planet of our ❤️
 
-<br>
 
 #### What i do stuff with:
 <table>
