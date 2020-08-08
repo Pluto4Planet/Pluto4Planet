@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-[![Pluto4Planets's github stats](https://github-readme-stats.vercel.app/api?username=Pluto4Planet)](https://github.com/anuraghazra/github-readme-stats)
+<img align="left" alt="Pluto4Planets's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pluto4Planet&show_icons=true&hide_border=true" />
 
 [vscode]: https://code.visualstudio.com/
 [github]: https://github.com
