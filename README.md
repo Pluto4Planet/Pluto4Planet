@@ -26,8 +26,4 @@ Here are some ideas to get you started:
 <img align="left" alt="Pluto4Planets's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pluto4Planet&show_icons=true&hide_border=true&hide=contribs,stars&count_private=true&theme=cobalt" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pluto4Planet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<style>
-table {
-    width:100%;
-}
-</style>
+<style>table {width:100%;}</style>
