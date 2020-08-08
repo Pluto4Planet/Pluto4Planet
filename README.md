@@ -12,6 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 ### What i do stuff with:
+<style>
+table {
+    width:100%;
+}
+</style>
 |  |  |
 | ------------------- | ----------------- |
 | Languages    | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> |
@@ -23,6 +28,6 @@ Here are some ideas to get you started:
 | Software | <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> |
 |Operating Systems| <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> |
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pluto4Planet&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <img align="left" alt="Pluto4Planets's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pluto4Planet&show_icons=true&hide_border=true&hide=contribs,stars&count_private=true&theme=cobalt" />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pluto4Planet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
