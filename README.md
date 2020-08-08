@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <table>
 <tr>
 <th align="center">
-<img width="441" height="1">
+<img width="100" height="1">
 <p> 
 <small>
 EXAMPLE TEXT
@@ -44,22 +44,79 @@ EXAMPLE TEXT
 </p>
 </th>
 </tr>
+
 <tr>
-<td>
-aa
-</td>
-<td>
-  aa
-</td>
-</tr>
-<tr>
-<td align="center">
-bb
+<td align="left">
+Languages
 </td>
 <td align="center">
-cc
+<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/>
 </td>
 </tr>
+
+<tr>
+<td align="left">
+Backend
+</td>
+<td align="center">
+b
+</td>
+</tr>
+
+<tr>
+<td align="left">
+Mobile Development
+</td>
+<td align="center">
+b
+</td>
+</tr>
+
+<tr>
+<td align="left">
+Database
+</td>
+<td align="center">
+b
+</td>
+</tr>
+
+<tr>
+<td align="left">
+DevOps
+</td>
+<td align="center">
+b
+</td>
+</tr>
+
+<tr>
+<td align="left">
+Version Control
+</td>
+<td align="center">
+b
+</td>
+</tr>
+
+<tr>
+<td align="left">
+Software
+</td>
+<td align="center">
+b
+</td>
+</tr>
+
+<tr>
+<td align="left">
+Operating Systems
+</td>
+<td align="center">
+b
+</td>
+</tr>
+
 </table>
 
 <img align="left" alt="Pluto4Planets's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pluto4Planet&show_icons=true&hide_border=true&hide=contribs,stars&count_private=true&theme=cobalt" />
