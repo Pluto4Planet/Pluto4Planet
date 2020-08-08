@@ -22,7 +22,47 @@ Here are some ideas to get you started:
 | Version Control | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/> |
 | Software | <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> |
 |Operating Systems| <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> |
-<div></div>
+
+<br>
+
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+aa
+</td>
+<td>
+  aa
+</td>
+</tr>
+<tr>
+<td align="center">
+bb
+</td>
+<td align="center">
+cc
+</td>
+</tr>
+</table>
+
 <img align="left" alt="Pluto4Planets's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pluto4Planet&show_icons=true&hide_border=true&hide=contribs,stars&count_private=true&theme=cobalt" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pluto4Planet&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pluto4Planet&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
