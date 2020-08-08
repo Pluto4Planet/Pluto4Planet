@@ -12,19 +12,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: 
 
 ### What i do stuff with:
-|  |  |
-| ------------------- | :-----------------: |
-| Languages    | <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> |
-| Backend | <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> |
-| Modile Development | <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> |
-| Database | <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> |
-| DevOps | <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> |
-| Version Control | <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/> |
-| Software | <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> |
-|Operating Systems| <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/> |
-
-<br>
-
 <table>
 <tr>
 <th align="center">
@@ -59,7 +46,7 @@ Languages
 Backend
 </td>
 <td align="center">
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </td>
 </tr>
 
@@ -68,7 +55,7 @@ Backend
 Mobile Development
 </td>
 <td align="center">
-b
+<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
 </td>
 </tr>
 
@@ -77,7 +64,7 @@ b
 Database
 </td>
 <td align="center">
-b
+<img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 </td>
 </tr>
 
@@ -86,7 +73,7 @@ b
 DevOps
 </td>
 <td align="center">
-b
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
 </td>
 </tr>
 
@@ -95,7 +82,7 @@ b
 Version Control
 </td>
 <td align="center">
-b
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/github/github-original-wordmark.svg" alt="git" width="40" height="40"/>
 </td>
 </tr>
 
@@ -104,7 +91,7 @@ b
 Software
 </td>
 <td align="center">
-b
+<img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
 </td>
 </tr>
 
@@ -113,7 +100,7 @@ b
 Operating Systems
 </td>
 <td align="center">
-b
+<img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
 </td>
 </tr>
 
