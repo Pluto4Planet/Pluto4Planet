@@ -1,24 +1,19 @@
-### Hi there 👋
+### Hello there 👋, I'm Michael
 
+- 👨🏽‍💻 I'm pursuing a Bachelor's degree in Computer Science
+- 📃 Currently learning Mobile Dev and UI/UX
+- Pluto, the planet of our ❤️
 
-**Pluto4Planet/Pluto4Planet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on a startup!
-- 🌱 I’m currently learning Flutter, UI/UX, Spring Boot
-<!-- - 👯 I’m looking to collaborate on ... -->
-- 📫 How to reach me: ...
-- ⚡ Fun fact: 
-
-### What i do stuff with:
+#### What i do stuff with:
 <table>
 <tr>
 <th align="center">
 <img width="100" height="1">
 <p> 
 <small>
-Field
+Topic
 </small>
 </p>
 </th>
