@@ -1,11 +1,11 @@
-### Hello there 👋, I'm Michael
+## Hello there 👋, I'm Michael
 
 - 👨🏽‍💻 I'm pursuing a Bachelor's degree in Computer Science
 - 📃 Currently learning Mobile Dev and UI/UX
 - 🔭 Pluto, the planet of our ❤️
 
 
-#### What i do stuff with:
+### What i do stuff with:
 <table>
 <tr>
 <th align="center">
