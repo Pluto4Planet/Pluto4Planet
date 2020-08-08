@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <br>
 <br>
-<img align="left" alt="Pluto4Planets's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pluto4Planet&show_icons=true&hide_border=true" />
+<img align="left" alt="Pluto4Planets's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Pluto4Planet&show_icons=true&hide_border=true&hide=contribs,prs,stars&count_private=true" />
 
 [vscode]: https://code.visualstudio.com/
 [github]: https://github.com
