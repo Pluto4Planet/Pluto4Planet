@@ -4,8 +4,6 @@
 - 📃 Currently learning Mobile Dev and UI/UX
 - 🔭 Pluto, the planet of our ❤️
 
-<br>
-
 
 #### What i do stuff with:
 <table>
