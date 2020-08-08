@@ -29,9 +29,19 @@ Here are some ideas to get you started:
 <tr>
 <th align="center">
 <img width="100" height="1">
+<p> 
+<small>
+Field
+</small>
+</p>
 </th>
 <th align="center">
 <img width="441" height="1">
+<p> 
+<small>
+Tools
+</small>
+</p>
 </th>
 </tr>
 
@@ -49,7 +59,7 @@ Languages
 Backend
 </td>
 <td align="center">
-b
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/></p> <img src="https://devicons.github.io/devicon/devicon.git/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/>
 </td>
 </tr>
 
